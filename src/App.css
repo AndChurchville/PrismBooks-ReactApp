@@ -1,6 +1,6 @@
 :root{
-  --mainBlue:#2a2a72;
-  --lightBlue: #009ffd;
+  --mainBlue:#053044;
+  --lightBlue: #4dcc57;
   --mainWhite: #f3f3f3;
   --mainDark: #232528;
   --mainYellow: #ffa400;
@@ -13,8 +13,7 @@ body{
 
 .text-title{
   font-family: "Lexend Giga", sans-serif;
-  letter-spacing: 0.3rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .text-blue{
   color: var(--mainBlue);
