@@ -8,7 +8,7 @@ export default function Hero() {
         
         <BannerImg>
             {/* <img src= {heroImg} /> */}
-            <h2 className='shop-title'> Prism Books</h2>
+            <h2 className='shop-title'>Prism Books</h2>
             
         </BannerImg>
         </>

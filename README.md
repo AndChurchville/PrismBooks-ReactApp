@@ -1,7 +1,7 @@
 
 ## Art Book Store
 Ecommerce site for art guide books and concept art books.
-Check it out here [Artbook Store](https://artbookstore.netlify.app/)
+Check it out here [Artbook Store](https://prismbooks.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

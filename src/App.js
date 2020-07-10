@@ -9,6 +9,7 @@ import Cart from './components/Cart';
 import PageNotFound from './components/PageNotFound';
 import Modal from './components/Modal';
 import Hero from './components/Hero';
+import About from './components/About';
 function App() {
   return (
     // react fragment
@@ -17,6 +18,7 @@ function App() {
       <Navbar/>
       <Switch>
         <Route exact path='/' component={ProductList}/>
+        <Route path='/about' component={About}/>
         <Route path='/details' component={Details}/>
         <Route path='/cart' component={Cart}/>
         <Route  component={PageNotFound}/>
